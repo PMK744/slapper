@@ -1,5 +1,5 @@
 {
-  "name": "sample-plugin",
+  "name": "slapper",
   "version": "1.0.0",
   "author": "SerenityJS",
   "description": "Sample plugin provides a basic configuration for plugin usage in the SerenityJS software.",
